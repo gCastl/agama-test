@@ -16,6 +16,9 @@
             "social-logins"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "test.agama": {}
+        },
+        "name": "Test"
     }
 }
