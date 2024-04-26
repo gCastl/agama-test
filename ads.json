@@ -1,1 +1,21 @@
-{}
+{
+    "Test": {
+        "projectName": "Test",
+        "description": "test agama lab",
+        "type": "community",
+        "author": "gCastl",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/gCastl/agama-test",
+        "githubUri": "https://github.com/gCastl/agama-test",
+        "license": "apache-2.0",
+        "lastUpdated": "1714134038699",
+        "tags": [
+            "openid-connect",
+            "authentication",
+            "authorization",
+            "social-logins"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
